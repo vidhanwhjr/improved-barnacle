@@ -1,0 +1,21 @@
+body {
+    background-color:yellow ;
+}
+#btn1{
+    float:right;
+}
+
+.btn-danger:hover{
+  background-color: navy;
+}
+
+#Score_span{
+  font-size: medium;
+ margin: left;
+
+}
+
+#Timer_span{
+    font-size: 25px;
+    float: right;
+}
